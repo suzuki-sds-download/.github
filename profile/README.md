@@ -22,6 +22,9 @@ A quick look at key parts in action:
 
 ![suzuki-sds-ecu-diagnostics](https://github.com/user-attachments/assets/9e98b441-f3ec-4da5-b676-1ffb19feb977)
 
+![suzuki-sds-fault-code-report](https://github.com/user-attachments/assets/b4fa7686-e4b4-4d81-b542-21c7e625d73c)
+
+
 ---
 
 ## 🎯 Key Features
